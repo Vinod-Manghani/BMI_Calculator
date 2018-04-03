@@ -1,10 +1,9 @@
 ---
-title: "BMI Calculator"
 author: "Vinod Manghani"
 date: "April 3, 2018"
 ---
 
-
+# BMI Calculator Documentation
 ## Project Overview
 
 The following Shiny application lets you generate the Body Mass Index of any individual. It is very simple to use, just insert your weight and your height and click submit and you'll get your BMI and the diagnostic.
